@@ -1,0 +1,149 @@
+{
+  "HALProvider": {
+    "Other Devices": {
+      "Talon FX[0]": {
+        "header": {
+          "open": true
+        }
+      }
+    }
+  },
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/LiveWindow/Ungrouped/PIDController[1]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[2]": "PIDController",
+      "/LiveWindow/Ungrouped/Pigeon 2 [5]": "Gyro",
+      "/LiveWindow/Ungrouped/Scheduler": "Scheduler",
+      "/LiveWindow/Ungrouped/Talon FX [0]": "Motor Controller",
+      "/LiveWindow/Ungrouped/Talon FX [1]": "Motor Controller",
+      "/SmartDashboard/Drivetrain": "Subsystem",
+      "/SmartDashboard/Field": "Field2d",
+      "/SmartDashboard/PIDController[3]": "PIDController",
+      "/SmartDashboard/angularPID": "PIDController",
+      "/SmartDashboard/compensationPID": "PIDController",
+      "/SmartDashboard/drivePID": "PIDController"
+    },
+    "windows": {
+      "/SmartDashboard/Field": {
+        "window": {
+          "visible": true
+        }
+      }
+    }
+  },
+  "NetworkTables": {
+    "Retained Values": {
+      "open": false
+    },
+    "persistent": {
+      "Shuffleboard": {
+        "Swerve": {
+          "open": true
+        },
+        "open": true
+      }
+    },
+    "transitory": {
+      "LiveWindow": {
+        ".status": {
+          "open": true
+        },
+        "open": true
+      },
+      "Shuffleboard": {
+        "Map": {
+          "open": true
+        },
+        "Swerve": {
+          "BACK_LEFT": {
+            "open": true
+          },
+          "BACK_RIGHT": {
+            "open": true
+          },
+          "FRONT_LEFT": {
+            "changeables: ": {
+              "open": true
+            },
+            "open": true
+          },
+          "FRONT_RIGHT": {
+            "changeables: ": {
+              "open": true
+            },
+            "open": true
+          },
+          "Modules": {
+            "open": true
+          },
+          "TEST": {
+            "open": true
+          },
+          "changeables: ": {
+            "open": true
+          },
+          "open": true,
+          "target angle": {
+            "open": true
+          },
+          "values": {
+            "open": true
+          }
+        },
+        "open": true
+      },
+      "SmartDashboard": {
+        "Drivetrain": {
+          "open": true
+        },
+        "E": {
+          "open": true
+        },
+        "FRONT_LEFT": {
+          "open": true
+        },
+        "FRONT_RIGHT": {
+          "open": true
+        },
+        "Field": {
+          "open": true
+        },
+        "FrontLeftSwerve": {
+          "open": true
+        },
+        "FrontRightSwerve": {
+          "open": true
+        },
+        "PIDController[3]": {
+          "open": true
+        },
+        "Shuffleboard": {
+          "Swerve": {
+            "FRONT_LEFT": {
+              "open": true
+            },
+            "FRONT_RIGHT": {
+              "open": true
+            },
+            "open": true
+          },
+          "open": true
+        },
+        "open": true,
+        "publisher": {
+          "Shuffleboard": {
+            "Swerve": {
+              "open": true
+            },
+            "open": true
+          },
+          "open": true
+        },
+        "widgets built!": {
+          "open": true
+        }
+      }
+    }
+  }
+}
